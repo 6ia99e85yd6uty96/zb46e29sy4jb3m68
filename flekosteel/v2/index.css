@@ -1,0 +1,171 @@
+/* ::::: https://fonts.googleapis.com/css?family=Comfortaa&subset=latin,cyrillic ::::: */
+
+@font-face {
+	font-family: "Comfortaa";
+	font-style: normal;
+	font-weight: 400;
+	src: url('1pt_g8ljrfwjmhdauussqamb1w0lwk4s4wjmdr4fib1fyc6dya.woff2') format("woff2");
+	unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+	font-family: "Comfortaa";
+	font-style: normal;
+	font-weight: 400;
+	src: url('1pt_g8ljrfwjmhdauussqamb1w0lwk4s4wjmdrcfib1fyc6dya.woff2') format("woff2");
+	unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+@font-face {
+	font-family: "Comfortaa";
+	font-style: normal;
+	font-weight: 400;
+	src: url('1pt_g8ljrfwjmhdauussqamb1w0lwk4s4wjmdrafib1fyc6dya.woff2') format("woff2");
+	unicode-range: U+370-3FF;
+}
+@font-face {
+	font-family: "Comfortaa";
+	font-style: normal;
+	font-weight: 400;
+	src: url('1pt_g8ljrfwjmhdauussqamb1w0lwk4s4wjmdrwfib1fyc6dya.woff2') format("woff2");
+	unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+	font-family: "Comfortaa";
+	font-style: normal;
+	font-weight: 400;
+	src: url('1pt_g8ljrfwjmhdauussqamb1w0lwk4s4wjmdr0fib1fyc6dya.woff2') format("woff2");
+	unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: "Comfortaa";
+	font-style: normal;
+	font-weight: 400;
+	src: url('1pt_g8ljrfwjmhdauussqamb1w0lwk4s4wjmdrmfib1fyc4.woff2') format("woff2");
+	unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* ::::: https://iacvalve.com/@OFFERS/flek/MX/@mx_flek_fb5/css/normalize.css ::::: */
+
+html { line-height: 1.15; }
+body { margin: 0px; }
+main { display: block; }
+h1 { font-size: 2em; margin: 0.67em 0px; }
+a { background-color: transparent; }
+b, strong { font-weight: bolder; }
+img { border-style: none; }
+button, input, optgroup, select, textarea { font-family: inherit; font-size: 100%; line-height: 1.15; margin: 0px; }
+button, input { overflow: visible; }
+button, select { text-transform: none; }
+button, [type="button"], [type="reset"], [type="submit"] {  }
+button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner { border-style: none; padding: 0px; }
+button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="submit"]:-moz-focusring { outline: 1px dotted buttontext; }
+/* ::::: https://iacvalve.com/@OFFERS/flek/MX/@mx_flek_fb5/css/style.css ::::: */
+
+body { font-family: sans-serif; background: rgb(235, 237, 240) none repeat scroll 0% 0%; margin-bottom: 15px !important; font-size: 17px !important; line-height: 23px; }
+h1 { font-size: 25px; }
+h2, h3 { font-style: oblique; font-size: 20px; }
+a { text-decoration: none; color: rgb(87, 107, 149); }
+p { color: rgb(112, 112, 112); }
+#global_wrapper { max-width: 600px; margin: 0px auto; background: rgb(235, 237, 240) none repeat scroll 0% 0%; }
+header { background: rgb(59, 89, 152) none repeat scroll 0% 0%; color: azure; width: 100%; padding: 13px 0px; text-align: center; position: relative; }
+header::after { content: ""; position: absolute; width: 100px; height: 56px; background: rgba(0, 0, 0, 0) url('o9-jq_ml0ow.png') repeat scroll 0px -720px / cover ; left: -20px; top: -2px; transform: scale(0.36); }
+#global_bg { width: 100%; position: relative; margin-bottom: 4px; }
+#global_bg_img { width: 100%; }
+#global_bg_img img { width: 100%; }
+#person_page { display: flex; justify-content: space-between; background: white none repeat scroll 0% 0%; padding: 7px; }
+.avatar_img_left { overflow: hidden; border-radius: 100%; width: 60px; margin-right: 15px; margin-left: 12px; }
+.avatar_img_left img { width: 100%; }
+.erson_page_inner_left_item { display: flex; align-items: center; }
+.erson_page_inner_left_item_info { display: flex; flex-direction: column; }
+.info_doctor, .erson_page_inner_right_img_liked { font-size: 15px; color: gray; min-width: 53px; }
+.erson_page_inner_right { display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0px 10px; }
+.erson_page_inner_right_img { width: 19px; }
+.erson_page_inner_right_img img { width: 100%; }
+.erson_page_inner_right_img_liked p { margin: 0px; font-size: 12px; }
+.sms { background: white none repeat scroll 0% 0%; display: flex; justify-content: space-between; align-items: center; padding: 8px; }
+.name_doctor { font-size: 17px !important; }
+.sms-el_mesage { flex: 1 1 0%; min-width: 0px; width: 0px; background: rgb(53, 120, 229) none repeat scroll 0% 0%; display: flex; justify-content: center; align-items: center; }
+.sms-el_mesage img { margin-right: 10px; }
+.sms-el_mesage2 { width: calc(16.67% - 7px); background: rgb(235, 237, 240) none repeat scroll 0% 0%; }
+.sms-el_points { width: calc(16.67% - 7px); background: rgb(235, 237, 240) none repeat scroll 0% 0%; }
+.sms-el_mesage, .sms-el_mesage2, .sms-el_points { margin: 6px 7px; border-radius: 5px; padding: 8px; min-height: 24px; }
+.sms-el_mesage img, .sms-el_mesage2 img, .sms-el_points img { width: 100%; }
+.sms_inner_img { width: 17px; margin: 0px auto; position: relative; }
+.sms-el_mesage .sms_inner_img { margin: 0px !important; }
+.liked23 { display: flex; justify-content: start; align-items: center; padding: 0px 0px 6px 13px; background: white none repeat scroll 0% 0%; }
+.liked23_icon_inner { width: 20px; margin-right: 5px; }
+.liked23_icon_inner img { width: 100%; }
+.liked23_info p { margin: 0px; color: gray; }
+#state { background: white none repeat scroll 0% 0%; margin-top: 8px; padding: 0px 13px 22px; }
+.state_doctor { display: flex; align-items: center; padding: 7px; }
+.state_doctor_avatar { width: 44px; overflow: hidden; border-radius: 100%; margin-right: 8px; }
+.state_doctor_avatar img { width: 100%; }
+.state_doctor_name_info { font-size: 14px; color: gray; }
+#state_close { background: white none repeat scroll 0% 0%; display: flex; align-items: center; justify-content: space-around; border-top: 1px solid rgb(228, 228, 228); border-bottom: 1px solid rgb(228, 228, 228); padding: 10px; color: gray; }
+#doctor_liked_heart { display: flex; align-items: center; background: white none repeat scroll 0% 0%; padding-left: 16px; border-bottom: 1px solid rgb(228, 228, 228); height: 38px; }
+#doctor_liked_heart div { width: 20px; margin-left: -8px; }
+#doctor_liked_heart img { width: 100%; }
+.doctor_liked_numbers { font-size: 10px; font-weight: 600; }
+.doctor_liked_numbers h1 { position: relative; left: 11px; }
+.state_text img { width: 100% !important; }
+.comments { background: white none repeat scroll 0% 0%; padding: 20px; }
+.popular { font-size: 17px; position: relative; top: -2px; }
+body { font-size: 16px; font-family: sans-serif; }
+#app_root, body {  }
+header { text-align: center; background: rgb(59, 89, 152) none repeat scroll 0% 0%; color: rgb(255, 255, 255); padding: 11px 0px 12px; position: relative; }
+#state, #form, #fb_post_end { padding: 10px 10px 11px; }
+.app_messenger { display: flex; align-items: center; justify-content: space-between; padding: 0px 9px 13px; }
+.app_messenger .messenger { align-items: center; background-color: rgb(53, 120, 229); border: 1px solid rgb(53, 120, 229); border-radius: 4px; color: rgb(255, 255, 255); display: flex; font-weight: 500; height: 34px; justify-content: center; line-height: 16px; width: 130%; }
+.app_messenger .three_dots { align-items: center; background-color: rgb(235, 237, 240); border: 1px solid rgb(235, 237, 240); border-radius: 4px; color: rgb(68, 73, 80); display: flex; height: 34px; justify-content: center; line-height: 16px; width: 25%; margin-left: 10px; }
+.app_messenger .messenger img, .app_messenger .three_dots img { height: 16px; width: 16px; }
+footer { position: fixed; background: rgb(255, 255, 255) none repeat scroll 0% 0%; width: 100%; max-width: inherit; bottom: 0px; z-index: 1000000000; border-top: 1px solid rgb(206, 206, 206); display: none; }
+footer > .app_messenger { background: rgb(255, 255, 255) none repeat scroll 0% 0%; padding: 9px 9px 11px !important; }
+.iconcoment { max-width: 60px; min-width: 60px; max-height: 60px; min-height: 60px; border-radius: 100%; margin: 0px 12px; }
+/* ::::: https://iacvalve.com/@OFFERS/flek/MX/@mx_flek_fb5/css/form.css ::::: */
+
+#form_image { margin: 0px 0px -88px; }
+.form_image_wrap_image { margin: 0px auto; max-width: 190px; position: relative; }
+.form_image_wrap_image img { width: 100%; }
+.form_image_wrap_image::after { content: ""; position: absolute; top: 45px; left: 106px; background: rgba(0, 0, 0, 0) url('bg-sale2.png') repeat scroll -8px -8px / 158px auto; width: 124px; height: 72px; box-shadow: 15px 12px 14px 0px rgba(0, 0, 0, 0.33); display: block; }
+#form {  }
+form { width: 100%; }
+#form_image {  }
+.form_wrap { max-width: 300px; margin: 0px auto; padding: 89px 13px 16px; box-shadow: 0px 0px 20px 13px rgba(0, 0, 0, 0.15); }
+.form_wrap form { display: flex; flex-direction: column; justify-content: center; }
+.form_wrap label { display: block; margin-top: 13px; }
+.descount, .termina { text-align: center; }
+.termina { margin-bottom: 10px; }
+.descount { color: rgb(53, 120, 229); font-size: 27px !important; font-weight: bold; }
+.horas { display: flex; justify-content: center; color: rgba(128, 128, 128, 0.41); }
+.horas div { text-align: center; margin-right: 5px; font-weight: bold; }
+#price { display: flex; justify-content: center; flex-wrap: wrap; margin: 10px auto; font-size: 24px; }
+#price .price_new { margin: 0px 5px; color: rgb(53, 120, 229); text-shadow: 4px 4px 3px rgba(0, 0, 0, 0.2); }
+#price .price_old { margin: 0px 5px; color: rgba(128, 128, 128, 0.41); text-decoration: line-through; }
+input { border: 1px solid rgba(53, 120, 229, 0.39); height: 40px; padding-left: 10px; font-size: 28px; }
+button.btnn { height: 59px; background: rgb(53, 128, 237) none repeat scroll 0% 0%; margin: 10px 0px; border: 1px solid rgb(53, 128, 237); color: white; font-weight: bold; letter-spacing: 5px; }
+.sus { display: flex; }
+.sus_wrwp_img { width: 15px; margin-right: 5px; }
+.sus_wrwp_img img { width: 100%; }
+.sus_text { color: gray; font-size: 12px; }
+/* ::::: https://iacvalve.com/@OFFERS/flek/MX/@mx_flek_fb5/comments.css ::::: */
+
+#comments_component { margin: 11px 18px; font-family: sans-serif; padding-bottom: 15px; display: none; }
+#comments_component .item { width: 100%; display: flex; flex-direction: row; margin: 0px 0px 20px; }
+#comments_component .component_ava { background-size: 100% 100%; width: 36px; height: 36px; min-width: 36px; min-height: 36px; overflow: hidden; border-radius: 100%; margin: 0px 10px 0px 0px; }
+#comments_component .component_info { width: 100%; display: flex; flex-direction: row; align-items: flex-end; margin: 0px 0px 5px; }
+#comments_component .component_info_inner { background-color: rgb(235, 237, 240); border-radius: 18px; display: inline-block; line-height: 16px; margin-top: 0px; min-width: 0px; overflow: hidden; padding: 6px 12px 7px; }
+#comments_component .component_name { color: rgb(0, 0, 0); font-weight: 600; font-size: 12px; margin: 0px 0px 3px 3px; text-decoration: none; }
+#comments_component .component_licked { position: relative; bottom: 3px; left: 0px; display: flex; }
+.component_body { width: 100%; }
+.component_reposy { color: rgb(146, 146, 146); font-weight: 600; font-size: 12px; margin: 6px 0px 0px 12px; display: flex; flex-wrap: wrap; }
+.component_reposy b { word-spacing: 0px !important; color: rgb(208, 208, 208); }
+.component_img { width: 100%; border-radius: 18px; overflow: hidden; margin: 7px 0px 6px; height: auto; }
+.component_img img { width: 100%; display: flex; height: auto; transition: all 3s ease-in 0s; }
+.component_licked { background: rgb(255, 255, 255) none repeat scroll 0% 0%; border-radius: 10px; box-shadow: 1px 1px 3px 0px rgb(218, 221, 225); color: rgb(144, 145, 146); font-size: 11px; font-weight: normal; height: 20px; line-height: 20px; margin-left: -10px; padding-right: 4px; transform: translateY(-6px); z-index: 5; }
+#comments_component a { font-weight: 600; text-decoration: none; color: rgb(35, 35, 35); }
+.icons { white-space: nowrap; display: flex; margin: 0px; }
+.icons .fb_licked { background-image: url('undefined'); background-size: 103px 328px; background-repeat: no-repeat; display: inline-block; height: 16px; width: 16px; border-radius: 100%; border: 2px solid rgb(255, 255, 255); }
+.l { background-position: -51px -266px; z-index: 4; }
+.u { background-position: 0px -283px; margin-left: -6px; z-index: 3; }
+.s { background-position: -68px -266px; margin-left: -6px; }
+.component_name, .component_reposy { cursor: pointer; }
+.component_name:hover, .component_text a:hover, .component_reposy nav:hover { text-decoration: underline !important; }
+.component_reposy nav { display: inline; margin: 0px 0px 0px 16px; }

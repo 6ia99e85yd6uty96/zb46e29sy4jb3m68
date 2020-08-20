@@ -1,0 +1,51 @@
+.timer {
+    display: block;
+    width: 240px;
+    margin: 0 auto;
+}
+.timer .count{
+    margin: 0 auto;
+    text-align: center;
+    width: 45px;
+    height: 45px;
+    border: 1px solid #cdced1;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 44px;
+}
+.dark {
+    color: white;
+}
+.light {
+    color: black;
+}
+.dark .count {
+    border-color: white;
+}
+.light .count {
+    border-color: black;
+}
+.timer .timer_item {
+    float: left;
+    float: left;
+    width: 80px;
+    position: relative;
+}
+.timer .not-last-item:before {
+    display: block;
+    content: ':';
+    width: 25px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 44px;
+    position: absolute;
+    top: 0;
+    right: -25px;
+}
+
+.timer .timer_text {
+    text-align: center;
+}

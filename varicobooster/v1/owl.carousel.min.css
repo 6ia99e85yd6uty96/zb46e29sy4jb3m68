@@ -1,0 +1,5 @@
+/* Code tidied up by ScrapBook */
+@keyframes fadeOut {
+0% { opacity: 1; }
+100% { opacity: 0; }
+}
